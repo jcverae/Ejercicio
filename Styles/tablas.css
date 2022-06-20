@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+th{
+    background-color: aqua;
+} 
+
+td {   
+    text-align: center;
+}
+
